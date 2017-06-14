@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\ptmBackup\ptmBackup\bin\Debug\ptmBackup.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\ptmBackup\ptmBackup\bin\Debug\ptmBackup.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ptmBackup\ptmBackup\bin\Debug\ptmBackup.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ptmBackup\ptmBackup\obj\Debug\ptmBackup.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\ptmBackup\ptmBackup\obj\Debug\ptmBackup.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ptmBackup\ptmBackup\obj\Debug\ptmBackup.pdb
